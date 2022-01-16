@@ -2,4 +2,4 @@
 
 [Simple-Landing-Page](https://a-zhukovets.github.io/Simple-Landing-Page/)
 
-layout.jpg
+[Preview](https://github.com/a-zhukovets/Simple-Landing-Page/blob/main/layout.jpg)
