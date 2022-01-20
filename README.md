@@ -3,6 +3,7 @@
 <img src='preview.jpg'>
 
 - Used Flexbox
+- Used Media queries
 - Used BEM
 - Adaptation for tablets and smartphone
 - Used burger menu for "mobile versions"
