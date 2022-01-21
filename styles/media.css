@@ -1,0 +1,99 @@
+@media(max-width: 568px) {
+   
+    .header__nav,
+    .header__button {
+        display: none;
+    }
+  
+    .header__menu-btn {
+        display: block;
+        margin-right: 30px;
+    }
+
+    .header__img{
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+    }
+
+    .hero{
+        padding: 50px 0;
+    }
+
+    .hero__title{
+        font-size: 25px;
+    }
+
+    .hero__subtitle{
+        font-size: 13px;
+    }
+
+    .about{
+        padding: 30px 0;
+    }
+
+    .about__title{
+        font-size: 25px;
+        margin-left: 45px;
+        text-align: center;
+        width: 200px;
+        margin-bottom: 0;
+    }
+
+    .about__article-preview{
+        font-size: 13px;
+        margin-left: 27px;
+    }
+   
+    .about__link{
+        font-size: 13px; 
+        margin-left: 27px;
+    }
+
+    .about__arrow{
+        width: 10px;
+        height: 14px;
+    }
+
+    .about__img{
+        width: 240px;
+        height: 240px;
+        margin-left: 25px;
+        margin-top: 25px;
+    }
+
+    .offers__title{
+        font-size: 25px;
+        margin-left: 80px;
+        width: 150px;
+    }
+
+    .offers__text{
+        font-size: 13px;
+        text-align: center;
+    } 
+
+    .offers__content{
+        margin-right: 0;
+    }
+
+    .offers{
+        padding: 10px 0;
+    }
+    
+    .offers__item{
+        font-size: 19px;
+    }
+
+    .showcase__title{
+        font-size: 20px;
+    }
+}
+
+
+@media(max-width:1024px) and (min-width:768px) {
+    .hero__title{
+        font-size: 45px;
+    }
+  }
+
